@@ -5,7 +5,6 @@
   - [Prerequisites](#prerequisites)
   - [Using Wabbajack](#using-wabbajack)
   - [Post-Installation](#post-installation)
-  - [Running the game] (#running-the-game)
 - [FAQ](#faq)
 
 # Introduction
