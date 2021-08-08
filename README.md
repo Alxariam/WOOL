@@ -35,9 +35,10 @@ You should have now successfully installed Wojo's Oblivion Overhaul List! Howeve
 Inside the **WOOL** folder you created for this installation, you should see a folder named **Game Folder Files**. Open that folder and copy every file, then paste them into your **Oblivion** folder. If you purchased Oblivion through Steam, you can find this folder by right-clicking The Elder Scrolls IV: Oblivion in your Steam library, then clicking **Manage** > **Browse local files**.
 
 ### Change resolution
-This step is needlessly complicated by the fact that Oblivion's launcher will completely ruin the configuration if it's launched. To change the resolution, you need to:
+This step is needlessly complicated by the fact that Oblivion's launcher will completely ruin the configuration if it's launched. To change the resolution, you need to: 
 
 Open the **INI Editor in MO2**. (jigsaw/puzzle piece icon on the top bar)
+
 Under **[Display]** at the very top of the .ini, change **iSizeW** and **iSizeH** to match your resolution. For example, 1920x1080 resolution would be iSizeW=1920 and iSizeH=1080
 
 ### Apply 4 GB Patch Steam and Retail Users
