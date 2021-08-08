@@ -53,31 +53,31 @@ You should now be finished with setting everything up! To play, just select **Ob
 
 ## Frequently Asked Questions
 
-Q: Why is the framerate dropping sometimes? I have a really good computer!
+-Q: Why is the framerate dropping sometimes? I have a really good computer!
 
-A: It doesn't really matter how good your computer is. To keep things simple, Oblivion does not use your resources very well. I've done everything humanly possible to improve this, but it's never going to be perfect. 
-
-
-Q: Will you ever add Better Cities to this list?
-
-A: No. I love Better Cities, but the fact is that it makes the game run terribly due to all the stuff it adds. Even in a mostly vanilla modlist, Better Cities just does not run well... and this is definitely not a mostly vanilla modlist. If there's ever a future update that addresses this issue, then I will revisit it then.
+  -A: It doesn't really matter how good your computer is. To keep things simple, Oblivion does not use your resources very well. I've done everything humanly possible to improve this, but it's never going to be perfect. 
 
 
-Q: Can I add (insert mod here) without breaking anything?
+-Q: Will you ever add Better Cities to this list?
 
-A: Probably not. Unless you really know what you're doing when it comes to modding Oblivion, it's super easy to break. You're welcome to try anyways, but I won't support any issues this causes.
-
-
-Q: Why are water surfaces stuttering?
-
-A: Disable your shader cache in your video card settings.
+  -A: No. I love Better Cities, but the fact is that it makes the game run terribly due to all the stuff it adds. Even in a mostly vanilla modlist, Better Cities just does not run well... and this is definitely not a mostly vanilla modlist. If there's ever a future update that addresses this issue, then I will revisit it then.
 
 
-Q: It's telling me that OBSE isn't installed and crashing!
+-Q: Can I add (insert mod here) without breaking anything?
 
-A: Read the instructions above better. You have to drag the game folder files into your Oblivion directory.
+  -A: Probably not. Unless you really know what you're doing when it comes to modding Oblivion, it's super easy to break. You're welcome to try anyways, but I won't support any issues this causes.
 
 
-Q: The NPCs act weird the dialog is awkward.
+-Q: Why are water surfaces stuttering?
 
-A: That's part of Oblivion's charm!
+  -A: Disable your shader cache in your video card settings.
+
+
+-Q: It's telling me that OBSE isn't installed and crashing!
+
+  -A: Read the instructions above better. You have to drag the game folder files into your Oblivion directory.
+
+
+-Q: The NPCs act weird the dialog is awkward.
+
+  -A: That's part of Oblivion's charm!
