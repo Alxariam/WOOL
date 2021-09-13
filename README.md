@@ -53,10 +53,20 @@ You should now be finished with setting everything up! To play, just select **Ob
 
 ## Frequently Asked Questions
 
+-Q: I'm getting an error message that says "Failed to initiliaze renderer. Desired render mode not found on Adapter."
+
+  -A: Please reread the Post-Installation section above where it asks you to change your resolution.
+  
+
 -Q: Why is the framerate dropping sometimes? I have a really good computer!
 
   -A: It doesn't really matter how good your computer is. To keep things simple, Oblivion does not use your resources very well. I've done everything humanly possible to improve this, but it's never going to be perfect. 
 
+
+-Q: OK fine, but is there anything I can change to get better performance?
+
+  -A: Yes there is! You can disable exterior shadows in Oblivion Reloaded Lite for a very large FPS boost, but at the cost of no longer having the pretty exterior shadows. If this is something you would like to do, then simply go into the OblivionReloaded.ini file located in the mods\Oblivion Reloaded Lite\OBSE\Plugins folder, locate ExteriorShadows under the [Shaders] section, then change the value from 1 to 0 and save.
+  
 
 -Q: Will you ever add Better Cities to this list?
 
@@ -66,6 +76,11 @@ You should now be finished with setting everything up! To play, just select **Ob
 -Q: Can I add (insert mod here) without breaking anything?
 
   -A: Probably not. Unless you really know what you're doing when it comes to modding Oblivion, it's super easy to break. You're welcome to try anyways, but I won't support any issues this causes.
+  
+  
+-Q: Can I add an ENB to this list?
+
+  -A: No. Due to conflicts with one of the settings in Oblivion Display Tweaks, it simply will not work with one. I've achieved comparable results with my Oblivion Reloaded Lite preset and have no plans (or need) to add an ENB.
 
 
 -Q: Why are water surfaces stuttering?
@@ -78,6 +93,6 @@ You should now be finished with setting everything up! To play, just select **Ob
   -A: Read the instructions above better. You have to drag the game folder files into your Oblivion directory.
 
 
--Q: The NPCs act weird the dialog is awkward.
+-Q: The NPCs act weird and the dialog is awkward.
 
   -A: That's part of Oblivion's charm!
