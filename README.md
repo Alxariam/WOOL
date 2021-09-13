@@ -53,6 +53,23 @@ You should now be finished with setting everything up! To play, just select **Ob
 
 ## Frequently Asked Questions
 
+-Q: Wabbajack isn't downloading certain files!
+
+  -A: Certain types of URLs give Wabbajack issues sometimes. Just manually download the files from these links and place them in your WOOL/downloads folder, then run the installation through Wabbajack again.
+
+A Brotherhood Renewed - https://tesalliance.org/forums/index.php?/files/file/422-a-brotherhood-renewed/
+
+Integration-OCOpatch - https://drive.google.com/file/d/1gktYkwN5oMexTmrKC_mru-SIYzoQ5KTj
+
+meshes_LOD_trees - https://drive.google.com/file/d/1E93rBXxorwjCzfYuqMSRrPE11Gw5agsO
+
+Music_Sound_Video - https://drive.google.com/file/d/14ibm_WU0zVVmtPxmQwQCmW2QQ3Z3d_0P
+
+Textures - https://drive.google.com/file/d/1mwC8-_lDReee79l6OP_Ff2Gx4lG-rnl1
+
+Optimized Oblivion Assets - https://drive.google.com/file/d/1Pw55xFC-8Nr53Mb-zlRSi8tUgrb1JEeC
+
+
 -Q: I'm getting an error message that says "Failed to initiliaze renderer. Desired render mode not found on Adapter."
 
   -A: Please reread the Post-Installation section above where it asks you to change your resolution.
