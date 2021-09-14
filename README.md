@@ -20,8 +20,8 @@ Ensure that any MO2 installations on your system are configured in â€˜portableâ€
 ## Using Wabbajack
 1. **Download** the latest version of Wabbajack from the [Wabbajack Github](https://github.com/wabbajack-tools/wabbajack/releases/), and **extract the Wabbajack.exe** file to a new directory called **Wabbajack**, as close to the root of your drive as possible (e.g. C:\Wabbajack).
 2. **Create a new folder** for the new installation, and call it **WOOL** - again place it close to the root of your drive, but not within the Wabbajack folder (this can cause errors). Ensure you have at least 87 GB of hard drive space. (Deleting the downloads after installation will reduce the setup size to 58 GB).
-3. **Download Wojo's Oblivion Overhaul List.wabbajack** from the Google Drive link (https://bit.ly/3jzBtAz)
-4. **Launch Wabbajack.exe** from within the Wabbajack folder. Select **Install from Disk**. Set the file path in Target Modlist to the Wojo's Oblivion Overhaul List.wabbajack
+3. **Launch Wabbajack.exe** from within the Wabbajack folder. Select **Browse Modlists**.
+4. **Download Wojo's Oblivion Overhaul List** from the gallery.
 5. Under Installation Location, select the **WOOL** folder you created in step 2. Set the Download Location to WOOL\downloads. Click **Begin**.
 6. Wabbajack will open a browser and ask for Nexus authorisation. Log in if necessary and then hit **Authorise.** (_If you get an error on authorisation, download and install [.Net Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48) and run the installer again_)
 7. Wabbajack will now download and install the mods specified in the installer. The download size is approximately 29 GB so this may take a little while depending on your internet speed. The installer should keep you informed of progress.
